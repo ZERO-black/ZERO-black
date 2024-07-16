@@ -27,11 +27,14 @@ Here are some ideas to get you started:
 
 <br/>
 -->
+### Contact info
+[✉️ jiyoung_06@ewha.ac.kr](mailto:jiyoung_06@ewha.ac.kr)
 
+[About me...](https://jiyoung06.notion.site/bc2c89e8a52344819e155fecf72c6ebe?pvs=4)
+
+### GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zero-black&show_icons=true&theme=prussian)
 
 ### Solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjy0616)](https://solved.ac/pjy0616)
-
-<!-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pjy0616)](https://solved.ac/pjy0616) -->
