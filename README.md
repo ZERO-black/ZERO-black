@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [✉️ jiyoung_06@ewha.ac.kr](mailto:jiyoung_06@ewha.ac.kr)
 
 [About me...](https://jiyoung06.notion.site/bc2c89e8a52344819e155fecf72c6ebe?pvs=4)
-
+---
 ### GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zero-black&show_icons=true&theme=prussian)
 
