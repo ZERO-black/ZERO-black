@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 ### ⚡ Technologies & Tools
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp;
@@ -26,8 +24,10 @@ Here are some ideas to get you started:
 <br/>
 
 ### 🌱 I’m currently learning ...</p>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;
+
 <br/>
+-->
+
 
 ### Solved.ac
 [![Solved.ac
