@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 -->
 ### Contact info
 [✉️ jiyoung_06@ewha.ac.kr](mailto:jiyoung_06@ewha.ac.kr)
+[✉️ jiyoung.park.06@gmail.com](mailto:jiyoung.park.06@gmail.com)
 
 [About me...](https://jiyoung06.notion.site/bc2c89e8a52344819e155fecf72c6ebe?pvs=4)
 ---
