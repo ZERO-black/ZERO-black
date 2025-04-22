@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### Contact info
 [✉️ jiyoung_06@ewha.ac.kr](mailto:jiyoung_06@ewha.ac.kr) <br>
 [✉️ jiyoung.park.06@gmail.com](mailto:jiyoung.park.06@gmail.com)
-
+<!--
 [About me...](https://jiyoung06.notion.site/bc2c89e8a52344819e155fecf72c6ebe?pvs=4)
 ---
 ### GitHub stats
@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 ### Solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjy0616)](https://solved.ac/pjy0616)
+-->
